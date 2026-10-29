@@ -1,1 +1,1 @@
-# -spam-checke
+# -spam-checker
